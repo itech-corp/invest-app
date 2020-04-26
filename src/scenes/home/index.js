@@ -19,7 +19,7 @@ const HomeScreen = ({navigation}) => (
             <Image source={investBrand} style={styles.image}  />
           </View>
          <View style={{alignItems:'center',justifyContent:'center',alignContent:'center',marginTop:200}}>
-           <Text style={{color:'white',fontSize:30}} >Here is Home</Text>
+           <Text style={{color:'white',fontSize:30}} >yes  is sweet hero</Text>
          </View>
           
       </KeyboardAwareScrollView>
